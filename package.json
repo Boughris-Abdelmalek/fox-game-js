@@ -1,0 +1,19 @@
+{
+  "name": "fox-game",
+  "version": "1.0.0",
+  "description": "lil vanilla js game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boughris-Abdelmalek/fox-game-js.git"
+  },
+  "author": "Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boughris-Abdelmalek/fox-game-js/issues"
+  },
+  "homepage": "https://github.com/Boughris-Abdelmalek/fox-game-js#readme"
+}
